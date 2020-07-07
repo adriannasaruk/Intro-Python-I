@@ -50,7 +50,6 @@ print(waypoints)
 # YOUR CODE HERE
 
 
-print(waypoints[1].name)
 
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
