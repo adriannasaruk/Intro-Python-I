@@ -13,7 +13,7 @@ change_x()
 print(x)
 
 # This prints 12. What do we have to modify in change_x() to get it to print 99?
-
+global x
 
 
 # This nested function has a similar problem.
